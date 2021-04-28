@@ -5,7 +5,7 @@
 <p align="center">
 <img alt="GitHub Version" src="https://img.shields.io/badge/Version-Planning-blue">
 <img alt="Website" src="https://img.shields.io/website?down_message=offline&up_message=online&url=https%3A%2F%2Fbluestrike3307.de">
-<img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/bluestrike3307?label=BlueStrike3307&style=social">
+<img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/bluestrike3307?style=social">
 </p>
 
 <hr>
